@@ -1,2 +1,2 @@
 # git
-The course of Git &amp; Github of Mohammadhadi Hajihosseini
+The course of Git &amp; Github by Mohammadhadi Hajihosseini
