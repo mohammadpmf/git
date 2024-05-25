@@ -4,3 +4,4 @@ salam3 git
 echo
 \necho
 \recho
+ba'd az commit
