@@ -1,0 +1,6 @@
+salam git
+salam2 git
+salam3 git
+echo
+\necho
+\recho
