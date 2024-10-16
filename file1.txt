@@ -1,2 +1,0 @@
-dafLine 1 in file 1
-Line 2 in file 1
